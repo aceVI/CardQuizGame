@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">The Shire Quiz Game</string>
+    <string name="welcome">Welcome!</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="submit">Submit</string>
+    <string name="textview">TextView</string>
+    <string name="hello_user">Hello, User!</string>
+    <string name="password">Password</string>
+    <string name="email">Email:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="first_name">First Name:</string>
+    <string name="birthday_mm_dd_yyyy">Birthday(MM/DD/YYYY)</string>
+    <string name="your_email">Your Email:</string>
+    <string name="select_password">Select Password:</string>
+    <string name="todo">TODO</string>
+    <string name="hi">Hi</string>
+    <string name="sign_in">Login</string>
+    <string name="splash_name">Hello User</string>
+    <string name="username_hint">Enter User name</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up">Submit</string>
+    <string name="user_fname">First Name</string>
+    <string name="user_lname">Last Name</string>
+    <string name="welcome_screen">Welcome to </string>
+    <string name="welcome_text">Let\'s test your Lord of the Rings knowledge!</string>
+    <string name="begin_txt">BEGIN</string>
+    <string name="goodluck">Good Luck!</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="question1">Question 1 of 5</string>
+    <string name="question2">Question 2 of 5</string>
+    <string name="question3">Question 3 of 5</string>
+    <string name="question4">Question 4 of 5</string>
+    <string name="question5">Question 5 of 5</string>
+
+    <string name="question_1">Where was Lord of the Rings filmed?</string>
+    <string name="answer1a">New Zealand</string>
+    <string name="answer1b">California, USA</string>
+    <string name="answer1c">Switzerland</string>
+    <string name="answer1d">Australia</string>
+
+    <string name="question_2">How many wizards are there in Middle Earth?</string>
+    <string name="answer2a">3</string>
+    <string name="answer2b">4</string>
+    <string name="answer2c">5</string>
+    <string name="answer2d">6</string>
+
+    <string name="question_3">Of the following foods, which are hobbits most passionate about?</string>
+    <string name="answer3a">Mushrooms</string>
+    <string name="answer3b">Pastries</string>
+    <string name="answer3c">Pepper</string>
+    <string name="answer3d">Wine</string>
+
+    <string name="question_4">And, while in Mordor, what kind of food does Frodo say he can not remember the taste of?</string>
+    <string name="answer4a">Cheese</string>
+    <string name="answer4b">Bacon</string>
+    <string name="answer4c">Strawberries</string>
+    <string name="answer4d">Mushrooms</string>
+
+    <string name="question_5">What is the name of the volcano that the Ring is thrown into?</string>
+    <string name="answer5a">Osgiliath</string>
+    <string name="answer5b">Cirith Ungol</string>
+    <string name="answer5c">Minas Tirith</string>
+    <string name="answer5d">Barad Dur</string>
+    <string name="you_got">You got</string>
+    <string name="results">Check your Results!</string>
+    <string name="home">Home</string>
+
+</resources>
